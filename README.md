@@ -62,6 +62,5 @@ https://sdy60-2023.github.io/webring/
 			</p>
 			<!-- <img id="icon" src="icon.black.large.svg" alt="icon"/>
 		</footer>
-			--!>
 	</body>
 </html>
