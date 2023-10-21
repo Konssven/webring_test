@@ -50,7 +50,6 @@ https://sdy60-2023.github.io/webring/
 			</li>
 			
 		</ol>
-		<!--
 		<footer>
 			<p class="readme">
 				This webring is an attempt to inspire artists &amp; developers to build their websites and share traffic amongst each other. The ring welcomes <b>hand-crafted wikis and portfolios</b>.
